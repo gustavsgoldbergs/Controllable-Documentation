@@ -7,16 +7,21 @@ This method is only for Linux. This will not work on Windows or Mac
 
 #### Step 1: Open terminal with CTRL+ALT+T.
 
-![image](https://github.com/gustavsgoldbergs/Controllable-Documentation/assets/75438804/44519303-be9d-479e-9f71-b71c4ea51034)
-
 #### Step 2: Install XboxDrv with the following command/s.
 
->  sudo apt-get install xboxdrv (ubuntu/debian)
+ubuntu/debian
+>  sudo apt-get install xboxdrv 
+
+fedora/redhat
+
 >  sudo dnf install libevdev libevdev-devel
 >  sudo dnf install xboxdrv (fedora/redhat)
+
+arch/manjaro
+
 >  sudo pacman -S base-devel git dkms
 >  sudo pacman -S yay
->  yay -S xboxdrv-git (arch/manjaro)\
+>  yay -S xboxdrv-git
 
 #### Step 3: Start XboxDrv
 
