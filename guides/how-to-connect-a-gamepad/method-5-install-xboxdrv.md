@@ -2,7 +2,7 @@
 # Method 5: Install XboxDrv
 
 This method is only for Linux. This will not work on Windows or Mac. 
-You may need to use xboxdrv to make Dualshock and Dualsence to work.
+You may need to use xboxdrv to make Dualshock and Dualsense to work.
 
 
 #### Step 1: Open terminal with CTRL+ALT+T.
