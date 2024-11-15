@@ -5,7 +5,7 @@ This method is only for Linux. This will not work on Windows or Mac.
 You may need to use xboxdrv to make Dualshock and Dualsense to work.
 
 
-#### Step 1: Open terminal with CTRL+ALT+T.
+#### Step 1: Open a terminal
 
 #### Step 2: Install XboxDrv with the following command/s.
 
