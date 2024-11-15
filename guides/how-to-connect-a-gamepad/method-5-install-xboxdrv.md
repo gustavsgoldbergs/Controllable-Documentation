@@ -19,8 +19,8 @@ fedora/redhat
 
 arch/manjaro
 
->  sudo pacman -S base-devel git dkms
->  sudo pacman -S yay
+>  sudo pacman -S base-devel git dkms &&
+>  sudo pacman -S yay &&
 >  yay -S xboxdrv-git
 
 #### Step 3: Start XboxDrv
