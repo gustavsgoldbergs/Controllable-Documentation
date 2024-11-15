@@ -9,15 +9,15 @@ You may need to use xboxdrv to make Dualshock and Dualsense to work.
 
 #### Step 2: Install XboxDrv with the following command/s.
 
-ubuntu/debian
+Ubuntu/Debian
 >  sudo apt-get install xboxdrv 
 
-fedora/redhat
+Fedora/Red Hat linux
 
->  sudo dnf install libevdev libevdev-devel
->  sudo dnf install xboxdrv (fedora/redhat)
+>  sudo dnf install libevdev libevdev-devel &&
+>  sudo dnf install xboxdrv 
 
-arch/manjaro
+Arch linux/Manjaro
 
 >  sudo pacman -S base-devel git dkms &&
 >  sudo pacman -S yay &&
